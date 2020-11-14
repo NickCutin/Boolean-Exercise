@@ -1,3 +1,3 @@
 # Nothing special
-Just my version of the famous italian html/css course
-free course with exercise
+
+Just my solution of the exercise from the the famous italian html/css course boolean
