@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    color: white;
+}
+
+.styleimage{
+    position: relative;
+    height: 100vh;
+    background-size: cover;
+}
+
+#Amsterdam{
+    background-image: url("img/amsterdam.jpeg");
+}
+
+
+#Roma{
+    background-image: url("img/roma.jpg");
+}
+
+#New-York{
+    background-image: url("img/new_york.jpeg");
+}
+
+.citta{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

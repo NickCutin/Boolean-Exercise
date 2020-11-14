@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+html{
+    background-color: green;
+}
+
+div.blue{
+    display: inline-block;
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+    position: relative;
+}
+
+div.red{
+    display: block;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
+
+div.absolute{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+div.relative{
+    position: relative;
+    left: 25px;
+}

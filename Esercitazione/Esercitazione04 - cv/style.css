@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+}
+
+hr, h2{
+    color: orange;
+    border-color: orange;
+}
+
+h3{
+    font-style: italic;
+}
+
+main{
+    padding: 8px;
+}
+
+.heart:after{
+    content: '\2665';
+}

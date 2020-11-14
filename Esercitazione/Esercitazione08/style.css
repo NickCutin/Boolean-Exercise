@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0% 20%;
+}
+
+.container{
+    margin: 0 auto;
+    display: inline-block;
+    background-color: rgb(236, 236, 236);
+    position: relative;
+}
+
+.sconto-30{
+    margin: 0;
+    height: 18px;
+    width: 35px;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.sconto-5{
+    margin: 0;
+    height: 18px;
+    width: 29px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.heart{
+    content: "\2665";
+    font-size: 32px;
+    position: relative;
+    left: 50%;
+    
+}
+
+
+.container:hover{
+    color: red;
+    display: inline-block;
+}
+
+
+body section{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

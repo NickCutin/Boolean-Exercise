@@ -1,0 +1,23 @@
+/* SELETTORE{
+    proprietà: valore;
+    proprietà: valore;
+}
+
+#nomeId{
+    proprietà: valore;
+}
+
+nomeTag{
+    proprietà: valore;
+} 
+
+.nomeClasse{
+    proprietà: valore;
+} */
+
+p{
+    font-size: 30px;
+    color: pink;
+    background-color: green;
+    border: 1px solid black;
+}

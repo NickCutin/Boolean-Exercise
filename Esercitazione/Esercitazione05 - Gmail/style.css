@@ -1,0 +1,78 @@
+body {
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+
+header,nav{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.foto{
+    width: 100px;
+}
+
+.input{
+    margin-bottom: 5px;
+}
+
+span > span{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: orange;
+}
+
+.email.unread{
+    background-color: lightgray;
+    border: 1px solid black;
+}
+
+.email.read{
+    background-color: white;
+    border: 1px solid black;
+}
+
+.row-left, .row-right{
+    display: inline-block;
+
+}
+
+.row-left{
+    width: 30%;
+}
+
+.row-right{
+    width: 68%;
+}
+
+.subject{
+    color: black;
+}
+
+.star{
+    color: black;
+}
+
+.star::after{
+    content: "\2605";
+}
+
+.email .body{
+    color: gray; 
+}
+
+.email .body::after{
+    content: '...';
+}
+
+footer{
+    text-align: center;
+}
+
+footer > span{
+    font-size: 25px;
+}

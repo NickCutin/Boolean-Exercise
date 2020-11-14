@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registrazione</title>
+    </head>
+
+    <body>
+        <h1>Registrazione sito internet</h1>
+        <form action="index.html">
+            <div>
+                <input type="text" name="nome" placeholder="Inserisci il tuo nome" minlength="2" maxlength="10" required>
+            </div>
+
+            <div>
+                <input type="text" name="cognome" placeholder="Inserisci il tuo cognome" minlength="2" maxlength="10" required>
+            </div>
+
+            <div>
+                <input type="email" name="email" placeholder="Inserisci la tua mail" required>
+            </div>
+
+            <div>
+                <select name="Regione" id="" required>
+                    <option value="abruzzo">Abruzzo</option>
+                    <option value="piemonte">Piemonte</option>
+                </select>
+            </div>
+
+            <div>
+                <input type="radio" name="eta" required> 0-18
+                <input type="radio" name="eta"> 18+
+            </div>
+
+            <div>
+                <input type="checkbox" required>Accetta i termini e condizioni
+            </div>
+
+            <div>
+                <input type="submit" value="Invia">
+            </div>
+        </form>
+    </body>
+</html>
