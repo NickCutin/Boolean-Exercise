@@ -4,7 +4,7 @@ Just my solution of the exercise from the the famous italian html/css course boo
 
 # Final Exercise
 
-[Final Exercise](https://github.com/NickCutin/Boolean-Exercise/tree/master/Esercitazione/Esercitazione%20Finale)
+[Final Exercise](https://github.com/NickCutin/Boolean-Exercise/blob/master/Esercitazione/Esercitazione%20Finale/index.html)
 
 # Main exercises without css
 
