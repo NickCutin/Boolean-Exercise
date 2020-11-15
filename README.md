@@ -1,6 +1,6 @@
-# Nothing special
+# Boolean Course problem solution
 
-Just my solution of the exercise from the the famous italian html/css course boolean
+Below you'll find my solution for the major problem this quick course assing (it's a complete course from the start to an advance point so the first problem are solved without css)
 
 # Final Exercise
 
